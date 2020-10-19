@@ -7,7 +7,7 @@ public class PlayButtonListener9 implements ActionListener {
 
 	@Override
 	public void actionPerformed(ActionEvent e) {
-		// TODO Auto-generated method stub
+		new Test1Question4();
 
 	}
 
