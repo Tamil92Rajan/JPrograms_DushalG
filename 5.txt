@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-iam file 5 in exlipse
-=======
+
+iam fe 5 in exlipse
+
 iam file 5 from github
->>>>>>> a24979b88af347bee4fa4fced6982b53f6a2e690
+
